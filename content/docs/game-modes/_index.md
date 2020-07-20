@@ -1,14 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Player Guides"
-linktitle: "Player Guides"
+title: "Game Modes"
+linktitle: "Game Modes"
 summary:
-date: 2020-07-19T23:53:15-04:00
-lastmod: 2020-07-19T23:53:15-04:00
+date: 2020-07-20T09:33:28-04:00
+lastmod: 2020-07-20T09:33:28-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+weight: 50
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -17,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   docs:
-    name: Player Guide
-    # parent: YourParentID
-    weight: 30
+    name: Game Modes
+    #parent: YourParentID
+    weight: 50
 ---

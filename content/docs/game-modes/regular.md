@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Overview"
-linktitle: "Overview"
+title: "Regular"
+linktitle: "Regular"
 summary:
-date: 2020-07-19T23:44:02-04:00
-lastmod: 2020-07-19T23:44:02-04:00
+date: 2020-07-20T09:33:36-04:00
+lastmod: 2020-07-20T09:33:36-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -17,9 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   docs:
-    name: Overview
-    # parent: YourParentID
-    weight: 10
+    name: YourParentID
+    parent: YourParentID
+    weight: 1
 ---
-
-Introduction and Overview of the Pack

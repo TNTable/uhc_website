@@ -19,5 +19,5 @@ menu:
   docs:
     name: FAQ
     # parent: YourParentID
-    weight: 40
+    weight: 9991
 ---
