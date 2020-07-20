@@ -1,5 +1,5 @@
 ---
-title: TNTable UHC Documentation
+title: Datapack Documentation
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
@@ -7,3 +7,4 @@ header:
   caption: ""
   image: ""
 ---
+Test
