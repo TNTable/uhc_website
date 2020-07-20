@@ -4,8 +4,8 @@
 title: "Quick Start Guide"
 linktitle: "Quick Start Guide"
 summary:
-date: 2020-07-20T09:33:11-04:00
-lastmod: 2020-07-20T09:33:11-04:00
+date: 2020-07-20T10:03:58-04:00
+lastmod: 2020-07-20T10:03:58-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,5 +20,5 @@ menu:
   docs:
     name: Quick Start Guide
     parent: Getting Started
-    weight: 50
+    weight: 40
 ---

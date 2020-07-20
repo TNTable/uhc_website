@@ -9,6 +9,7 @@ lastmod: 2020-07-20T09:25:25-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+weight: 10
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -18,6 +19,6 @@ type: docs  # Do not modify.
 menu:
   docs:
     name: Overview
-    #parent: YourParentID
+    # parent: docs
     weight: 1
 ---

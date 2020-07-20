@@ -9,7 +9,7 @@ lastmod: 2020-07-19T23:53:40-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-weight: 20
+weight: 60
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -19,6 +19,6 @@ weight: 20
 menu:
   docs:
     name: Slow Games
-    parent: Player Guide
-    weight: 20
+    parent: Player Guides
+    weight: 60
 ---

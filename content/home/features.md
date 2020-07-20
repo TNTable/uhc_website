@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Pack Features"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Vanilla Minecraft"
+  description = "No mods or plugins needed to run this datapack"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Optimized"
+  description = "This pack is developed and tested to run on a wide range of hardware without issues"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Open Source"
+  description = "This pack is open source meaning you can contribute or fork to modify it to your liking"
 
 # Uncomment to use emoji icons.
 # [[feature]]

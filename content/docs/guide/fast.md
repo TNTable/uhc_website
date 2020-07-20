@@ -9,7 +9,7 @@ lastmod: 2020-07-19T23:53:36-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-weight: 10
+weight: 50
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -19,6 +19,6 @@ weight: 10
 menu:
   docs:
     name: Quick Games
-    parent: Player Guide
-    weight: 10
+    parent: Player Guides
+    weight: 50
 ---

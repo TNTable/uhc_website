@@ -19,6 +19,6 @@ weight: 50
 menu:
   docs:
     name: Game Modes
-    #parent: YourParentID
+    # parent: content
     weight: 50
 ---

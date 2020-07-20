@@ -4,11 +4,12 @@
 title: "Troubleshooting"
 linktitle: "Troubleshooting"
 summary:
-date: 2020-07-19T23:56:44-04:00
-lastmod: 2020-07-19T23:56:44-04:00
+date: 2020-07-20T09:56:03-04:00
+lastmod: 2020-07-20T09:56:03-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+weight: 99999
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -19,5 +20,7 @@ menu:
   docs:
     name: Troubleshooting
     # parent: YourParentID
-    weight: 999999
+    weight: 99999
 ---
+## Test
+Submit an issue ticket on Github. Read through the FAQ and this document first though.

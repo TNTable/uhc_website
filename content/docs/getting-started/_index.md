@@ -4,11 +4,12 @@
 title: "Getting Started"
 linktitle: "Getting Started"
 summary:
-date: 2020-07-20T09:45:02-04:00
-lastmod: 2020-07-20T09:45:02-04:00
+date: 2020-07-20T10:15:49-04:00
+lastmod: 2020-07-20T10:15:49-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+weight: 40
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -18,6 +19,8 @@ type: docs  # Do not modify.
 menu:
   docs:
     name: Getting Started
-    #parent: YourParentID
+    # parent: YourParentID
     weight: 40
 ---
+
+This section outlines how to use the datapack. See the Datapack section for technical details.

@@ -1,14 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Special Thanks"
-linktitle: "Thanks"
+title: "Full Guide"
+linktitle: "Full Guide"
 summary:
-date: 2020-07-19T23:47:53-04:00
-lastmod: 2020-07-19T23:47:53-04:00
+date: 2020-07-20T10:05:00-04:00
+lastmod: 2020-07-20T10:05:00-04:00
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+weight: 50
 
 # Add menu entry to sidebar.
 # - Substitute `example` with the name of your course/documentation folder.
@@ -17,27 +18,15 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   docs:
-    name: Special Thanks
-    parent: Overview
-    weight: 20
+    name: Full Guide
+    parent: Getting Started
+    weight: 50
 ---
 
-This datapack would not have been possible without the help of many people. I have listed as many as I can below.
+## Starting Games
 
-## Development
-* Angus
+## Lobby
 
-## Building
-* Matt
-* Michael
+## Drops & Sponsorships
 
-## Testing
-* Aden
-* Angus
-* Jack
-* Jarego
-* Jarrad
-* Matt
-* Michael
-* Mitch
-* Nick
+## Resetting a Game
