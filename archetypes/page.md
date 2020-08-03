@@ -1,9 +1,9 @@
 ---
-title: "Intense"
-date: 2020-08-03T15:48:01-04:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 type: book
 
-weight: 50
+weight: 10
 
 toc: true
 

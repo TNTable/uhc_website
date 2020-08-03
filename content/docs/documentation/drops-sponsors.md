@@ -1,9 +1,9 @@
 ---
-title: "Intense"
-date: 2020-08-03T15:48:01-04:00
+title: "Drops & Sponsorships"
+date: 2020-08-03T15:57:21-04:00
 type: book
 
-weight: 50
+weight: 40
 
 toc: true
 

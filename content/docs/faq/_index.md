@@ -1,19 +1,23 @@
 ---
-title: "Game Modes"
-linktitle: "Game Modes"
+title: "FAQ"
+linktitle: "FAQ"
 summary: 
-date: 2020-08-03T15:44:57-04:00
+date: 2020-08-03T15:58:34-04:00
 type: book
 
-weight: 40
+weight: 60
 
 toc: true
 
 icon_pack: fas #fas, fab, ai, emoji
-icon: clock
+icon: question-circle
 
 # But this in the body to list children pages
 # {{< list_children >}}
+
+# Add more pages
+# hugo new -k page docs/faq/page.md
+
 ---
 
 {{< list_children >}}

@@ -1,9 +1,9 @@
 ---
-title: "Intense"
-date: 2020-08-03T15:48:01-04:00
+title: "Technical Usage"
+date: 2020-08-03T15:56:33-04:00
 type: book
 
-weight: 50
+weight: 10
 
 toc: true
 

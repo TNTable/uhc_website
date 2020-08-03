@@ -71,7 +71,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -288,5 +288,11 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false
+ # See https://sourcethemes.com/academic/docs/install/
+ netlify_cms = false
+  
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+ ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/

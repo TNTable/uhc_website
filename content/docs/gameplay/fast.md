@@ -1,19 +1,17 @@
 ---
-title: "Game Modes"
-linktitle: "Game Modes"
+title: "Quick Games"
 summary: 
-date: 2020-08-03T15:44:57-04:00
+date: 2020-08-03T15:36:32-04:00
 type: book
 
-weight: 40
+weight: 20
 
 toc: true
 
 icon_pack: fas #fas, fab, ai, emoji
-icon: clock
+icon: 
 
 # But this in the body to list children pages
 # {{< list_children >}}
 ---
 
-{{< list_children >}}
