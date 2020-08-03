@@ -48,9 +48,9 @@ title = "TNTable UHC Datapack"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="TNTable/uhc_datapack">Latest release<!-- V --></a>'
 +++
 
-**Bring UHC to Vanilla Minecraft**
+**Bringing UHC to Vanilla Minecraft**
 
-Build **Anything** with Widgets
+Offering a no-compromises UHC experience for vanilla Minecraft. Optimized for lower-end hardware.
